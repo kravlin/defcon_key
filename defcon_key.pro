@@ -1,4 +1,4 @@
-update=Tue 24 Apr 2018 10:16:09 PM MDT
+update=6/17/2018 2:15:23 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,9 +20,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
 [general]
 version=1
 [eeschema]
@@ -61,3 +58,16 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
+[cvpcb]
+version=1
+NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=C:/Users/kravlin/Desktop/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
