@@ -12,13 +12,13 @@ void setup() {
   // put your setup code here, to run once:
   pinMode(1, OUTPUT);
   pinMode(0, OUTPUT);
-  pinMode(2, OUTPUT);
   pinMode(3, OUTPUT);
   pinMode(4, OUTPUT);
   pinMode(eyePin, OUTPUT);
   pinMode(6, OUTPUT);
   pinMode(7, OUTPUT);
   pinMode(8, OUTPUT);
+  pinMode(9, OUTPUT);
   pinMode(buttonPin, INPUT);
   digitalWrite(eyePin, HIGH);
 }
