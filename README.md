@@ -13,7 +13,7 @@ This is the Infobooth Key Badge for DEFCON 26. Created at the behest of Mello an
 * [5mm Red LEDs](https://www.mouser.com/ProductDetail/Kingbright/WP63SRD?qs=7QlcvZZejStVbcM3wnr71w==)
 * [57.6ohm Resistor](https://www.mouser.com/ProductDetail/KOA-Speer/MF1-4DC57R6F?qs=sGAEpiMZZMsPqMdJzcrNwlJRvxcOW1fvRk6trFl%252b2HE=) - for the eye LEDs. Only 1 per badge.
 * [110ohm Resistor](https://www.mouser.com/ProductDetail/603-MFR-25FBF52-110R) - 8 per badge. For amber LEDs
-* CR2032 battery. I'm not telling you how to get one.
+* CR2032 battery. Avalible...anywhere?
 
 ## Code
 
